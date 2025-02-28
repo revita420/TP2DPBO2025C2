@@ -8,3 +8,7 @@ Saya Syahraini Revita Puri dengan NIM 2301895 berjanji mengerjakan TP2 DPBO deng
 Terdiri dari **3 class yaitu PetShop, Aksesoris, dan Baju**. PetShop adalah induk (parent class), Aksesoris adalah child dari PetShop, dan Baju adalah child dari Aksesoris.
 
 # Alur Program
+Pertama user akan diberiikan 3 pilihan
+(1) **Tampil Produk** = jika user memilih 1, maka akan menampilkan data produk yang sudah ada dalam tabel
+(2) **Tambah Produk** = jika user memilih 2, maka user akan dimintai inputan untuk menambahkan produk, kemudian akan ada pesan Produk berhasil ditambahkan!.
+(0) **Keluar** = jika user memilih 0, program akan berhenti dan menampilkan pesan Terima kasih telah menggunakan program ini!
